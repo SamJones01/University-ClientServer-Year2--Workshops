@@ -1,0 +1,19 @@
+div.text {
+    border-style: solid;
+    width: 450px;
+    padding-left: 5px;
+    background-color: beige;
+    position: relative;
+}
+
+div.return {
+    padding-top: 5px;
+}
+
+body {
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 12px;
+    width: 483px;
+    height: 294px;
+    display: block;
+}

@@ -1,0 +1,50 @@
+body {
+    border-style: solid;
+    width: 450px;
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 12px;
+    width: 483px;
+    height: 294px;
+    display: block;
+    background-color: beige;
+}
+
+html {
+    background-color: white;
+}
+
+div.SignIn {
+    background-color: beige;
+}
+
+div.LineTwo {
+    padding-left: 5px;
+}
+div.birthday {
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
+div.RadioButtons {
+    border: 1px solid black;
+    width: 430px;
+    margin: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 2px;
+}
+
+div.LineFour {
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+
+div.LineFive {
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+div.password {
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
